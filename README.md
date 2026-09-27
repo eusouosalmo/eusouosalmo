@@ -1,24 +1,24 @@
 # Eu sou o Salmo 🤙
 
-Engenheiro da Computação pela UFC e dev na **AIDA**, uma plataforma de Customer Experience com IA. No dia a dia eu construo backends em TypeScript na GCP e pipelines que colocam LLMs para trabalhar em produção.
+Engenheiro de Computação pela Universidade Federal do Ceará, com mais de 5 anos construindo software em produção. Meu foco é arquitetura de software para escalar aplicações: sistemas que crescem em volume, em time e em complexidade sem virar um problema. Hoje isso inclui colocar IA para trabalhar em produção.
 
-Fora do trabalho eu crio conteúdo sobre **arquitetura de software, programação, IA e SaaS** no Instagram e no YouTube como [@eusouosalmo](https://instagram.com/eusouosalmo).
+## 🧠 O que eu faço
 
-## 🧠 Do que eu falo
-
-- **Arquitetura de software:** Clean Architecture, DDD, monorepos, sistemas orientados a eventos
-- **Programação:** backend com TypeScript e Go, APIs, bancos de dados e testes
-- **IA:** LLMs em produção, agentes, MCP, automação com Claude Code
-- **SaaS:** do zero ao deploy, multi-tenant, infra na nuvem
+- **Arquitetura de software:** sistemas que escalam e continuam fáceis de manter e evoluir
+- **Backend:** APIs e processamento de alto volume, filas e pipelines assíncronas
+- **IA aplicada:** LLMs em produção, agentes e automação do desenvolvimento
+- **SaaS:** produto do zero ao deploy, com infra na nuvem
 
 ## 🛠️ Stack
 
-- **Linguagens:** TypeScript, JavaScript, Go, Python
-- **Backend:** Node.js, Hono, NestJS, Express
+- **Linguagens:** TypeScript, Go, Python
+- **Backend:** Node.js, NestJS, Hono
 - **Frontend:** React, Next.js
-- **Dados:** PostgreSQL, Drizzle ORM, MongoDB, MySQL
-- **IA:** Vercel AI SDK, OpenAI, Gemini, Claude Agent SDK, MCP
-- **Cloud & Infra:** GCP (Cloud Run, Pub/Sub, Cloud Tasks), AWS, Docker, Terraform, CI/CD
+- **Dados:** PostgreSQL, MongoDB, Drizzle ORM
+- **IA:** OpenAI, Gemini, Vercel AI SDK, Claude Agent SDK, MCP
+- **Cloud & Infra:** GCP, AWS, Docker, Terraform, Git, Linux
+
+Compartilho o que aprendo sobre esses temas no Instagram e no YouTube ([@eusouosalmo](https://instagram.com/eusouosalmo)).
 
 ## 📊 GitHub
 
